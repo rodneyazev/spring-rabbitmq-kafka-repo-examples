@@ -1,0 +1,4 @@
+First:
+
+Create topic manually: my_topic
+Second: In Insomnia ou Postman, POST message in string format (Plain text)
